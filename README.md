@@ -1,5 +1,8 @@
 # Hacker News Clone
 
+hosted on Vercel:
+[Live page](https://hacker-news-clone-rho.vercel.app/)
+
 The project was created while following Scrimba's Javascript Deep Dive course. 
 It replicates key features of the original site, such as displaying top stories, comments, and navigation (using Navigo). 
 
